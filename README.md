@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Munawar EK</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
+![quotes](https://github.com/codewithrabeeh/codewithrabeeh/assets/65481473/4c6ff418-81ed-4867-8574-33359f4ac87d)
+
 - 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **dart**
